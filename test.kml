@@ -40,32 +40,5 @@
 			</outerBoundaryIs>
 		</Polygon>
 	</Placemark>
-	<ScreenOverlay>
-		<name>Conception : TouraineVerte.fr</name>
-		<description><![CDATA[Conditions d’utilisation :<br/>
-Ce fichier KML vous est proposé gratuitement par le site https://www.touraineverte.fr.<br/>
-Il a été élaboré à partir des données du produit GEOFLA® qui sont utilisables gratuitement sous licence Etalab.<br/>
-La réutilisation de GEOFLA® est gratuite pour tous les usages, y compris commerciaux.<br/>
-Source : http://professionnels.ign.fr/sites/default/files/DC_GEOFLA_2-2.pdf<br/><br/>]]></description>
-		<Icon>
-			<href>https://static.touraineverte.fr/logos/logo-155x85.png</href>
-		</Icon>
-		<overlayXY x="0" y="0" xunits="pixels" yunits="fraction"/>
-		<screenXY x="0" y="30" xunits="pixels" yunits="pixels"/>
-		<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
-		<size x="77" y="42" xunits="pixels" yunits="pixels"/>
-	</ScreenOverlay>
-	<ScreenOverlay>
-		<name>Licence : ETALAB Open Licence / Licence Ouvert</name>
-		<description><![CDATA[Etalab a conçu la « Licence Ouverte / Open Licence », élaborée en concertation avec l’ensemble des acteurs concernés, pour faciliter et encourager la réutilisation des données publiques mises à disposition gratuitement.
-Cette licence ouverte, libre et gratuite, apporte la sécurité juridique nécessaire aux producteurs et aux réutilisateurs des données publiques.<br/>http://professionnels.ign.fr/geofla]]></description>
-		<Icon>
-			<href>https://static.touraineverte.fr/logos/1.png</href>
-		</Icon>
-		<overlayXY x="0" y="0" xunits="pixels" yunits="fraction"/>
-		<screenXY x="85" y="10" xunits="pixels" yunits="pixels"/>
-		<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
-		<size x="28" y="42" xunits="pixels" yunits="pixels"/>
-	</ScreenOverlay>
 </Document>
 </kml>
